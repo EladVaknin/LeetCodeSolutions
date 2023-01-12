@@ -1,5 +1,5 @@
-public class ArrangingCoins {
-    // The solution in CPP
+//public class ArrangingCoins {
+//    // The solution in CPP
 //    public:
 //    int arrangeCoins(int n) {
 //        long long result = sqrt (2*(long long)n);
@@ -7,4 +7,4 @@ public class ArrangingCoins {
 //        if (sum > n ) return result -1 ;
 //        return result;
 //    }
-}
+//}
